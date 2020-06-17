@@ -1,0 +1,25 @@
+h4 {
+        color:red;
+        text-align: start;
+        width: auto;
+}
+
+h1 {
+        color:blue;
+        text-align: center;
+        width: auto;
+}
+
+div {
+        font-size: 30px;
+        font-style: Arial, bold;
+        color:rgb(184, 10, 10);
+        background-color: skyblue;
+        margin: auto;
+        padding: 50px;
+        width: auto;
+}
+
+html {
+        background: tan;
+}
